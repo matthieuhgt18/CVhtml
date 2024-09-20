@@ -1,0 +1,80 @@
+html {
+    margin-right:  500px; ;
+    margin-left: 500px ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-family: "Chivo";
+    font-weight: 100;
+    font-size: 36pt;
+    color: rgb(0, 0, 0)
+}
+
+li, td, ul {
+    font-family: 'Gill Sans';
+    font-size: 14pt;
+    color: rgb(0, 0, 0)
+}
+
+body {
+    background-color: rgb(77, 183, 236)
+}
+
+a:link { color:rgb(48, 41, 253); text-decoration:none; }
+a:visited { color:rgb(17, 0, 255); text-decoration:none; }
+td {
+    border-color: rgb(130, 130, 130);
+}
+
+td {
+    border-width: 0.05 cm;
+}
+
+ul {
+    list-style-type: circle
+}
+
+img {
+    position: absolute;
+    width: 190px;
+    top: 20pX;
+    left: 1200px;
+}
+
+table.etude {
+    table-layout: auto;
+    width: 100%;
+    background-color: rgb(0, 38, 255);
+}
+
+table.exppro, table.compinf {
+    table-layout: auto;
+    width: 100%;
+}
+
+
+table.etude, table.exppro, table.compinf {
+    border-collapse: collapse;
+}
+
+div.d_etude, .d_exppro, .d_compinf, .d_divers {
+    border: dashed rgb(0, 191, 255);
+    background-color: rgb(5, 63, 255)
+    ;
+}
+
+.couleur1 {
+    background-color:#4088e0 ;
+}
+
+.couleur2 {
+    background-color:#4088e0;
+}
+.couleur3 {
+    background-color: #4088e0;
+}
+.couleur4 {
+    background-color: #4088e0;
+}
